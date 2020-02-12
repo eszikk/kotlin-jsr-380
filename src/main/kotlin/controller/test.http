@@ -1,0 +1,25 @@
+POST http://localhost:8080/test/
+Content-Type: application/json
+
+{
+  "name": "test",
+  "size": {
+    "width": 10,
+    "height": 10
+  }
+}
+
+###
+
+POST http://localhost:8080/test/
+Content-Type: application/json
+
+{
+  "name": "test",
+  "size": {
+    "width": -10,
+    "height": 10
+  }
+}
+
+###

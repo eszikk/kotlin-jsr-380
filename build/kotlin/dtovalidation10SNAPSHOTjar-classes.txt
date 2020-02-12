@@ -1,0 +1,1 @@
+/home/eszik/Desktop/projects/dto_validation/build/classes/kotlin/main/org/example/MainApplication.class:/home/eszik/Desktop/projects/dto_validation/build/classes/kotlin/main/org/example/MainApplicationKt.class
